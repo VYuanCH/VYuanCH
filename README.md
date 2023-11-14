@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VYuanCH
 - 👀 I’m an Electrical and Electronic Engineer
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python!
 - Contact: vyuanchao@hotmail.com
 
 <!---
